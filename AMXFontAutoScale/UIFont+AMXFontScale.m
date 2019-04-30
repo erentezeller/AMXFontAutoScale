@@ -36,12 +36,18 @@
         case AMXScreenSize4Inch:
             return 320;
         case AMXScreenSize4p7Inch:
+        case AMXScreenSize5p8Inch:
             return 375;
         case AMXScreenSize5p5Inch:
+        case AMXScreenSize6p1Inch:
+        case AMXScreenSize6p5Inch:
             return 414;
         case AMXScreenSize7p9Inch:
         case AMXScreenSize9p7Inch:
             return 768;
+        case AMXScreenSize10p5Inch:
+        case AMXScreenSize11Inch:
+            return 834;
         case AMXScreenSize12p9Inch:
             return 1024;
         case AMXScreenSizeCurrent:
