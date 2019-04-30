@@ -19,8 +19,13 @@ typedef NS_ENUM(NSInteger, AMXScreenSize) {
     AMXScreenSize4Inch,
     AMXScreenSize4p7Inch,
     AMXScreenSize5p5Inch,
+    AMXScreenSize5p8Inch,
+    AMXScreenSize6p1Inch,
+    AMXScreenSize6p5Inch,
     AMXScreenSize7p9Inch,
     AMXScreenSize9p7Inch,
+    AMXScreenSize10p5Inch,
+    AMXScreenSize11Inch,
     AMXScreenSize12p9Inch
 };
 
